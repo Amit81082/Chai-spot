@@ -2,8 +2,9 @@
 
 Chai shop discovery & rewards platform — MERN stack prototype.
 
-**Live URL:** _add your deployed URL here after deploying (see Deployment below)_
-**Repo:** _add your GitHub URL here_
+**Live URL:** https://chai-spot-blond.vercel.app/
+**Repo:**
+
 
 ## Features implemented
 
