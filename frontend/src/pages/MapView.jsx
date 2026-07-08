@@ -1,6 +1,6 @@
 import { useEffect, useState, useCallback } from 'react';
 import { Link } from 'react-router-dom';
-import { MapContainer, TileLayer, Marker, Popup, GeoJSON, useMap } from 'react-leaflet';
+import { MapContainer, TileLayer, Marker, Popup, Tooltip, GeoJSON, useMap } from 'react-leaflet';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import api from '../api';
@@ -110,6 +110,9 @@ export default function MapView() {
             const [lng, lat] = shop.location.coordinates;
             return (
               <Marker key={shop._id} position={[lat, lng]} icon={chaiIcon}>
+                <Tooltip direction="top" offset={[0, -28]} opacity={0.95}>
+                  {shop.name}
+                </Tooltip>
                 <Popup>
                   <div style={{ minWidth: 200 }}>
                     <h4 style={{ margin: '4px 0' }}>{shop.name}</h4>
