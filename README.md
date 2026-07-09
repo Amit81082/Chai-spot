@@ -5,6 +5,8 @@ Chai shop discovery & rewards platform — MERN stack prototype.
 **Live URL:** https://chai-spot-blond.vercel.app/
 **Repo:** - https://github.com/Amit81082/Chai-spot
 
+## Demo Video - https://youtu.be/lrPEkmrP1mc
+
 ## Screenshot 
 <img width="1347" height="637" alt="image" src="https://github.com/user-attachments/assets/85330543-e69b-4a84-9396-af7e29bfd3df" />
 <img width="1354" height="640" alt="image" src="https://github.com/user-attachments/assets/3b0a4252-a40a-4038-bf0e-f76e96534615" />
