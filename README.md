@@ -7,7 +7,7 @@ Chai shop discovery & rewards platform — MERN stack prototype.
 
 ## 🎥 Project Demo
 
-[![Watch the Demo](https://img.youtube.com/vi/lrPEkmrP1mc/maxresdefault.jpg)](https://youtu.be/lrPEkmrP1mc)
+https://youtu.be/lrPEkmrP1mc
 
 ## Screenshot 
 <img width="1347" height="637" alt="image" src="https://github.com/user-attachments/assets/85330543-e69b-4a84-9396-af7e29bfd3df" />
